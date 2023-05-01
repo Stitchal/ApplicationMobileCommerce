@@ -1,7 +1,8 @@
 # ApplicationMobileCommerce
 
 - Singleton (items + enchant)
-- itemAdapter (items)
+- ItemAdapter (items)
 - Widget : ratingBar or/and searchBar
 - Paypal
-- envoi de notification fin commande
+- Envoi de notification fin commande
+- Fragments
